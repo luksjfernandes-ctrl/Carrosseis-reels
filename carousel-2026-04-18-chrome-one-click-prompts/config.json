@@ -1,0 +1,67 @@
+{
+  "profile": {
+    "name": "Lucas Jonas",
+    "handle": "@eusoulucasjonas",
+    "verified": true,
+    "headshot": "skills/instagram-thread-carousel/headshots/lucas-profissional-2.jpg"
+  },
+  "theme": "light",
+  "slides": [
+    {
+      "tweets": [
+        {
+          "text": "A guerra da IA mudou de lugar: não é mais no modelo. É na interface.\n\nO Chrome agora transforma prompts em um clique.",
+          "image": "carousel-2026-04-18-chrome-one-click-prompts/ref/google-chrome-ai-one-click-prompts-inter-01.jpg"
+        }
+      ]
+    },
+    {
+      "tweets": [
+        {
+          "text": "Durante meses, o jogo parecia simples: quem tem o melhor modelo vence.\n\nNão mais.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "tweets": [
+        {
+          "text": "Quando o Chrome adiciona prompts prontos em um clique, ele faz uma coisa decisiva: reduz fricção.\n\nE produto que reduz fricção domina comportamento.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "tweets": [
+        {
+          "text": "A maioria das pessoas não quer aprender prompt engineering.\n\nQuer resultado rápido, claro e sem pensar demais no processo.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "tweets": [
+        {
+          "text": "É por isso que muita inovação em IA vai parecer pequena no começo.\n\nNão porque é fraca, mas porque vem embalada como conveniência.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "tweets": [
+        {
+          "text": "Quem vencer essa fase não será só quem tem inteligência artificial melhor.\n\nSerá quem transformar inteligência em hábito.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "tweets": [
+        {
+          "text": "Guarde isso: o próximo salto da IA pode não parecer genial.\n\nPode parecer apenas fácil.\n\nE é exatamente aí que mora o poder.",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
